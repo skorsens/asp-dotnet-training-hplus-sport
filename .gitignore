@@ -131,3 +131,9 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+# JetBrains IDE
+/.idea
+
+# Visual Studio IDE
+.vs
